@@ -1,0 +1,4 @@
+*.DS_STORE
+public
+app/screenshot/urllist.*
+app/screenshot/core/config.php
